@@ -63,8 +63,6 @@ import com.itextpdf.signatures.PrivateKeySignature;
 
 import com.itextpdf.signatures.PdfSigner.CryptoStandard;
 
-
-
 public class UTL  {
 	
 	public static String			DSC_PRNT_META;
